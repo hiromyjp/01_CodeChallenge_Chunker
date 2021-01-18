@@ -6,12 +6,12 @@ Solution for a C# coding verification test I did
 
 ## Task
 
-; Receive a string and a value of chunks to be splitted
+Receive a string and a value of chunks to be splitted
 
-: If the value of chunk is less then 1, an ArgumetException should be raised
-: If the provided string is empty, a empty array of strings should be returned
-: If number of chunks is greater than the string size, the number of chunks must be the string size
-: The difference of characters should be divided at the beginning of the array
+If the value of chunk is less then 1, an ArgumetException should be raised
+If the provided string is empty, a empty array of strings should be returned
+If number of chunks is greater than the string size, the number of chunks must be the string size
+The difference of characters should be divided at the beginning of the array
 
 Methods signature:
 
