@@ -1,8 +1,6 @@
 # 01_CodeChallenge_Chunker
 Solution for a C# coding verification test I did 
 
-## Unit Tests to be added
-
 
 ## Task
 
