@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chunker", "Chunker\Chunker.csproj", "{E593D181-F697-4F19-AA50-1549D5C23520}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChunkerTest", "ChunkerTest\ChunkerTest.csproj", "{C69EAFD6-754B-4D08-824E-E45CD9567A41}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{E593D181-F697-4F19-AA50-1549D5C23520}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E593D181-F697-4F19-AA50-1549D5C23520}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E593D181-F697-4F19-AA50-1549D5C23520}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C69EAFD6-754B-4D08-824E-E45CD9567A41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C69EAFD6-754B-4D08-824E-E45CD9567A41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C69EAFD6-754B-4D08-824E-E45CD9567A41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C69EAFD6-754B-4D08-824E-E45CD9567A41}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace Chunker
 {
-    class AChunker
+    public class AChunker
     {
         public static IEnumerable<string> ChunkIter(string s, int chunks)
         {
